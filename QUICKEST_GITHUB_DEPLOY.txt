@@ -1,0 +1,124 @@
+═══════════════════════════════════════════════════════════════════════════════
+                      ✅ GITHUB PAGES DEPLOYMENT GUIDE ✅
+═══════════════════════════════════════════════════════════════════════════════
+
+                           YOUR GITHUB REPO:
+                    https://github.com/whoamiharshh/dist
+
+═══════════════════════════════════════════════════════════════════════════════
+
+                              STEP 1: BUILD
+
+              Double-click: BUILD_ONLY.bat
+              Wait for: ✓ Build successful!
+
+═══════════════════════════════════════════════════════════════════════════════
+
+                              STEP 2: UPLOAD
+
+    1. Go to: https://github.com/whoamiharshh/dist
+    2. Click: "Add file" (top right)
+    3. Select: "Upload files"
+    4. Drag: C:\Users\Sir\Desktop\website\dist folder contents
+    5. Click: "Commit changes"
+
+═══════════════════════════════════════════════════════════════════════════════
+
+                              STEP 3: ENABLE PAGES
+
+    1. Go to: https://github.com/whoamiharshh/dist
+    2. Click: "Settings"
+    3. Click: "Pages" (left menu)
+    4. Source: Select "Deploy from a branch"
+    5. Branch: "main"
+    6. Folder: "/ (root)"
+    7. Click: "Save"
+    8. Wait 2-3 minutes
+
+═══════════════════════════════════════════════════════════════════════════════
+
+                              STEP 4: VISIT YOUR SITE
+
+            Your live URL: https://whoamiharshh.github.io/dist
+
+    Copy this URL → Paste in browser → See your live website! 🌍
+
+═══════════════════════════════════════════════════════════════════════════════
+
+                            DETAILED INSTRUCTIONS:
+
+    FILE UPLOAD:
+    ───────────────────────────────────────────────────
+    1. Open File Explorer
+    2. Navigate to: C:\Users\Sir\Desktop\website\dist
+    3. Select ALL files in dist folder (Ctrl+A)
+    4. Copy them (Ctrl+C)
+    5. Go to: https://github.com/whoamiharshh/dist
+    6. Click "Add file" → "Upload files"
+    7. Drag the files here OR click to select
+    8. Commit
+
+    ENABLE PAGES:
+    ───────────────────────────────────────────────────
+    1. Settings → Pages
+    2. Source: "Deploy from a branch"
+    3. Branch: main
+    4. Folder: / (root)
+    5. Save
+    6. GitHub deploys automatically!
+
+═══════════════════════════════════════════════════════════════════════════════
+
+                              WHAT YOU'LL SEE:
+
+    GitHub processing...
+    Building site...
+    ✓ Your site is published at: https://whoamiharshh.github.io/dist
+
+═══════════════════════════════════════════════════════════════════════════════
+
+                              YOUR LIVE WEBSITE:
+
+                    https://whoamiharshh.github.io/dist
+
+        Copy this URL!
+        Paste in browser!
+        Share with friends!
+        Start earning money! 💰
+
+═══════════════════════════════════════════════════════════════════════════════
+
+                            TIMELINE:
+
+        BUILD_ONLY.bat: 1 minute
+        Upload to GitHub: 2 minutes
+        Enable Pages: 1 minute
+        GitHub deployment: 2-3 minutes
+
+        TOTAL: ~7 minutes to live website! 🚀
+
+═══════════════════════════════════════════════════════════════════════════════
+
+                          TEST PAYMENT SYSTEM:
+
+        Once live:
+        - Click "Pricing"
+        - Click "Subscribe"
+        - Card: 4242 4242 4242 4242
+        - Exp: 12/25
+        - CVC: 123
+        - Verify it works! ✅
+
+═══════════════════════════════════════════════════════════════════════════════
+
+                              START NOW!
+
+            1. Double-click: BUILD_ONLY.bat
+            2. Upload dist/ to: https://github.com/whoamiharshh/dist
+            3. Enable GitHub Pages in Settings
+            4. Wait 2-3 minutes
+            5. Visit: https://whoamiharshh.github.io/dist
+
+                    Your site is LIVE! 🚀🌍
+
+═══════════════════════════════════════════════════════════════════════════════
