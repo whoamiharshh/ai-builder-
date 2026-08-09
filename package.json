@@ -2,7 +2,7 @@
   "name": "syntheticai",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://whoamiharshh.github.io/ai-builder",
+  "homepage": "https://whoamiharshh.github.io/ai-builder-",
   "type": "module",
   "scripts": {
     "dev": "vite",
