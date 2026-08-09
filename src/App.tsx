@@ -1,5 +1,5 @@
 import { useState, Suspense, lazy, useEffect } from 'react';
-import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
+import { HashRouter, Routes, Route, useLocation } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
 import { AuthProvider } from './contexts/AuthContext';
 import { ToastProvider } from './contexts/ToastContext';
@@ -77,11 +77,11 @@ export default function App() {
           <PaymentProvider>
             <div className={theme === 'dark' ? 'dark' : 'light'}>
               <div className="min-h-screen bg-midnight text-white transition-colors duration-500 dark:bg-slate-50 dark:text-slate-950">
-                <BrowserRouter>
+                <HashRouter>
                   <NavBar theme={theme} onToggleTheme={toggleTheme} />
                   <AppRoutes />
                   <Footer />
-                </BrowserRouter>
+                </HashRouter>
                 <ToastContainer />
               </div>
             </div>
